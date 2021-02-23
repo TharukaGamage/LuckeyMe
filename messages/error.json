@@ -1,0 +1,7 @@
+{
+    "messages.error.empty_phone_number": "Please enter phone number",
+    "messages.error.empty_password": "Please enter a password.",
+    "messages.error.email_already_in_use": "Email is already in use.",
+    "messages.error.phone_number_is_already_in_use": "Phone number is already in use.",
+    "messages.error.duplicate_key_entry": "Duplicate Key Entry."
+}
